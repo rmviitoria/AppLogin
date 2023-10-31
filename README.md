@@ -15,7 +15,7 @@
 #### IDE
 - XML (Activity)
 ## APK do projeto
-- <a href="https://drive.google.com/file/d/1jzLQCHUlcxOl8Pw40M9q3aPgXS6Ifqgm/view?usp=sharing"> APK do aplicativo </a>
+- <a href="https://drive.google.com/file/d/1dvZkq8vH3LMAIjgtdaQ-X5zfNO5T4rwT/view?usp=sharing"> APK do aplicativo </a>
 
 ## Como instalar 
 - 1° Na tela de boas-vindas do Android Studio, clique em Profile or debug APK;
